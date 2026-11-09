@@ -60,6 +60,10 @@ El dashboard incluye KPI de empleados, salidas y tasa de rotación, además de v
 
 **Tableau Public:** https://public.tableau.com/app/profile/diana.stefania.perez.acu.a/viz/PeopleAnalytics-RotacinyRetencindePersonal/PeopleAnalyticsRotacinyRetencindePersonal
 
+### Vista previa del dashboard
+
+[![Dashboard People Analytics](dashboard_people_analytics.png)](https://public.tableau.com/app/profile/diana.stefania.perez.acu.a/viz/PeopleAnalytics-RotacinyRetencindePersonal/PeopleAnalyticsRotacinyRetencindePersonal)
+
 ## Archivos del repositorio
 
 - `Caso_Estudio_2_Rotacion_Personal.ipynb` — análisis en Python y SQL
